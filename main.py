@@ -66,14 +66,14 @@ async def main():
 
     # Load questions from the benchmark file
     try:
-        with open("questions-benchmark.json", "r", encoding="utf-8") as f:
+        with open("questions-benchmark-easy-hard-opt.json", "r", encoding="utf-8") as f:
             questions = json.load(f)
-        logging.info(f"Loaded {len(questions)} questions from questions-benchmark.json")
+        logging.info(f"Loaded {len(questions)} questions from questions-benchmark-force-cheap.json")
     except FileNotFoundError:
-        logging.error("questions-benchmark.json not found. Please ensure it's in the same directory.")
+        logging.error("questions-benchmark-force-cheap.json not found. Please ensure it's in the same directory.")
         return
     except json.JSONDecodeError:
-        logging.error("Error decoding questions-benchmark.json. Please check its format.")
+        logging.error("Error decoding questions-benchmark-force-cheap.json. Please check its format.")
         return
 
     client = OpenRouterClient()

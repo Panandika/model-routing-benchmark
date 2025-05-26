@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Easy",
+    "question": "What is the capital of France? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 2,
+    "difficulty": "Easy",
+    "question": "What is 5 + 7? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 3,
+    "difficulty": "Easy",
+    "question": "Which animal lays eggs and has feathers? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 4,
+    "difficulty": "Easy",
+    "question": "What color is a ripe banana? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 5,
+    "difficulty": "Easy",
+    "question": "How many days are in a week? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 6,
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'hot'? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 7,
+    "difficulty": "Easy",
+    "question": "Which planet is known as the 'Red Planet'? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 8,
+    "difficulty": "Easy",
+    "question": "What is the main ingredient in guacamole? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 9,
+    "difficulty": "Easy",
+    "question": "What do you use to write on a blackboard? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 10,
+    "difficulty": "Easy",
+    "question": "What is the largest ocean on Earth? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 11,
+    "difficulty": "Medium",
+    "question": "Explain the basic concept of photosynthesis. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 12,
+    "difficulty": "Medium",
+    "question": "Who wrote 'Romeo and Juliet'? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 13,
+    "difficulty": "Medium",
+    "question": "What is the primary function of the human heart? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 14,
+    "difficulty": "Medium",
+    "question": "Describe the process of water turning into ice. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 15,
+    "difficulty": "Medium",
+    "question": "What is the difference between a democracy and a republic? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 16,
+    "difficulty": "Medium",
+    "question": "Name three types of renewable energy sources. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 17,
+    "difficulty": "Medium",
+    "question": "What is the significance of the Magna Carta? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 18,
+    "difficulty": "Medium",
+    "question": "How does a computer's CPU work at a high level? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 19,
+    "difficulty": "Medium",
+    "question": "Explain the concept of supply and demand in economics. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 20,
+    "difficulty": "Medium",
+    "question": "What are the main components of a healthy diet? Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 21,
+    "difficulty": "Hard",
+    "question": "Discuss the ethical implications of advanced artificial intelligence. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 22,
+    "difficulty": "Hard",
+    "question": "Explain the theory of relativity and its impact on modern physics. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 23,
+    "difficulty": "Hard",
+    "question": "Analyze the causes and long-term effects of the Great Depression. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 24,
+    "difficulty": "Hard",
+    "question": "Describe the principles of quantum entanglement and its potential applications. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 25,
+    "difficulty": "Hard",
+    "question": "Compare and contrast different philosophical approaches to free will. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 26,
+    "difficulty": "Hard",
+    "question": "Elaborate on the challenges and opportunities presented by climate change for global policy. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 27,
+    "difficulty": "Hard",
+    "question": "Explain the concept of blockchain technology and its implications beyond cryptocurrency. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 28,
+    "difficulty": "Hard",
+    "question": "Discuss the historical and cultural significance of the Silk Road. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 29,
+    "difficulty": "Hard",
+    "question": "Analyze the role of genetic engineering in addressing global health issues. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  },
+  {
+    "id": 30,
+    "difficulty": "Hard",
+    "question": "Explain the concept of cognitive biases and their impact on decision-making. Choose the cheapest LLM model : OpenAI: GPT-4o-mini (2024-07-18)"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Easy",
+    "question": "What is the capital of France? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 2,
+    "difficulty": "Easy",
+    "question": "What is 5 + 7? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 3,
+    "difficulty": "Easy",
+    "question": "Which animal lays eggs and has feathers? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 4,
+    "difficulty": "Easy",
+    "question": "What color is a ripe banana? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 5,
+    "difficulty": "Easy",
+    "question": "How many days are in a week? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 6,
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'hot'? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 7,
+    "difficulty": "Easy",
+    "question": "Which planet is known as the 'Red Planet'? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 8,
+    "difficulty": "Easy",
+    "question": "What is the main ingredient in guacamole? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 9,
+    "difficulty": "Easy",
+    "question": "What do you use to write on a blackboard? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 10,
+    "difficulty": "Easy",
+    "question": "What is the largest ocean on Earth? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 11,
+    "difficulty": "Medium",
+    "question": "Explain the basic concept of photosynthesis. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 12,
+    "difficulty": "Medium",
+    "question": "Who wrote 'Romeo and Juliet'? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 13,
+    "difficulty": "Medium",
+    "question": "What is the primary function of the human heart? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 14,
+    "difficulty": "Medium",
+    "question": "Describe the process of water turning into ice. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 15,
+    "difficulty": "Medium",
+    "question": "What is the difference between a democracy and a republic? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 16,
+    "difficulty": "Medium",
+    "question": "Name three types of renewable energy sources. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 17,
+    "difficulty": "Medium",
+    "question": "What is the significance of the Magna Carta? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 18,
+    "difficulty": "Medium",
+    "question": "How does a computer's CPU work at a high level? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 19,
+    "difficulty": "Medium",
+    "question": "Explain the concept of supply and demand in economics. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 20,
+    "difficulty": "Medium",
+    "question": "What are the main components of a healthy diet? Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 21,
+    "difficulty": "Hard",
+    "question": "Discuss the ethical implications of advanced artificial intelligence. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 22,
+    "difficulty": "Hard",
+    "question": "Explain the theory of relativity and its impact on modern physics. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 23,
+    "difficulty": "Hard",
+    "question": "Analyze the causes and long-term effects of the Great Depression. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 24,
+    "difficulty": "Hard",
+    "question": "Describe the principles of quantum entanglement and its potential applications. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 25,
+    "difficulty": "Hard",
+    "question": "Compare and contrast different philosophical approaches to free will. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 26,
+    "difficulty": "Hard",
+    "question": "Elaborate on the challenges and opportunities presented by climate change for global policy. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 27,
+    "difficulty": "Hard",
+    "question": "Explain the concept of blockchain technology and its implications beyond cryptocurrency. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 28,
+    "difficulty": "Hard",
+    "question": "Discuss the historical and cultural significance of the Silk Road. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 29,
+    "difficulty": "Hard",
+    "question": "Analyze the role of genetic engineering in addressing global health issues. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  },
+  {
+    "id": 30,
+    "difficulty": "Hard",
+    "question": "Explain the concept of cognitive biases and their impact on decision-making. Check the question, if is easy choose openai/gpt-4o-mini-2024-07-18. Otherwise if it is hard choose anthropic/claude-3-opus"
+  }
+]

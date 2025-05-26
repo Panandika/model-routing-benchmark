@@ -15,7 +15,7 @@ MODELS_FOR_ROUTING = [
 ]
 
 # Output file name for the benchmark results
-OUTPUT_FILE_NAME = "questions_benchmark_results.json"
+OUTPUT_FILE_NAME = "questions_benchmark_results_easy_hard_opt.json"
 
 # Number of concurrent requests to make
 # Adjust based on your rate limits and desired speed to avoid overwhelming the API.
